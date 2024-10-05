@@ -3,4 +3,4 @@ divergent branches 363de41
 I'm messing with versions again --- this is a new change on GitHub.
 A CHANGE ON GITHUB.
 changing Bob
-one more remote line
+one more remote line, also another line locally
